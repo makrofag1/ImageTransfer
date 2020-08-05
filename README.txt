@@ -1,0 +1,1 @@
+This project is created for educational purposes and it's long-term goal is to create a client-server application for files transfer over a local network.
